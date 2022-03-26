@@ -1,4 +1,3 @@
-### Hi there 👋
 <img src="Cheers! (1).gif" alt="">
 
 ### 👋 Hello World !  <img src="299891a5fc87e239d87f782ba6608682.gif" width="44px">
