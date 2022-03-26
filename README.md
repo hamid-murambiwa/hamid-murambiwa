@@ -19,9 +19,11 @@ I am a new Student at Microverse inc. I love Machine Learning and trying to find
 
 ## <p align="center">My Professional Stats</p>
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hamid-murambiwa&theme=dark)](https://github.com/KDlamini/github-readme-stats) &nbsp; &nbsp; &nbsp;
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hamid-murambiwa&show_icons=true&theme=dark)
-
+## <p align="center">[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hamid-murambiwa&theme=dark)](https://github.com/KDlamini/github-readme-stats)</p>
+ &nbsp;
+  
+## <p align="center">![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hamid-murambiwa&show_icons=true&theme=dark)</p>
+ &nbsp;
 
 
 ### <p align="center">Languages and Tools...</p>
