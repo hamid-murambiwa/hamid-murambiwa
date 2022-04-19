@@ -5,7 +5,7 @@
 
 ### 👋 Hello World !  <img src="299891a5fc87e239d87f782ba6608682.gif" width="44px">
   
-I am a new Student at Microverse inc. I love Machine Learning and trying to find more about Full Stack Web Development. 
+I am a new Student at Microverse inc. I love Machine Learning, a challenge and growth. 
 
 - 🌱 I’m currently learning Data Science | Full Stack Web development
 - 👯 I’m looking to collaborate on Machine Learning and Web Development Projects <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
