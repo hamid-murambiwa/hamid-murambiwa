@@ -5,12 +5,11 @@
 
 ### 👋 Hello World !  <img src="299891a5fc87e239d87f782ba6608682.gif" width="44px" height="50px">
   
-I am a new Student at Microverse inc. I love Machine Learning, a challenge and growth. 
+I am a Full-stack Software Engineer. I love Machine Learning, a challenge and growth. 
 
-- 🌱 I’m currently learning Data Science | Full Stack Web development
 - 👯 I’m looking to collaborate on Machine Learning and Web Development Projects <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 - 🔭 I also work on graphic design using adobe illustrator in my spare time.
-- 💬 Ask me about anything. I will try to help you as much as I can.
+- 💬 Ask me about Ruby on Rails, React, restful APIs and Redux.
 - ⚡ Quote: Hard work pays off. Altough working smarter pays more.
 - 📫 How to reach me:
 
